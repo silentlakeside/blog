@@ -1,7 +1,9 @@
 欢迎来到寂静湖畔的博客。
 
 - 开发
-  - [Java编程](java)
+  - Java
+  - KDB+
+    - [KDB tips](dev/kdb/kdb_tips.md)
   - Shell脚本
 	  - BASH脚本
 		  - [BASH - 脚本基础](dev/script/bash/bash_basic.md)
@@ -14,6 +16,11 @@
 		  - [BASH - 暂停](dev/script/bash/bash_pause.md)
 		  - [BASH - 使用sendmail发送邮件](dev/script/bash/bash_sendmail.md)
 		  - [BASH - 以变量的形式执行shell命令](dev/script/bash/bash_execute_variable_command.md)
-  - [设计](design)
+  - 设计
 - 产品
-  - [评价](review)
+  - 评价
+- 参考
+  - 金融
+    - [金融证券的几个有用站点](reference/finance/websites.md) 
+- 工具
+  - [个人常用的免费工具](tool/free.md) 
